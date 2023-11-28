@@ -1,4 +1,4 @@
-# ![]()
+# ![](imagens/Exemplo.jpeg)
 # Sistema de informação para apoio à tomada de decisão
 <table>
 <tr>
