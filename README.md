@@ -38,6 +38,8 @@ O modelo considerará as condições climáticas e pluviometria  ideais para cad
 
 ### Como utilizar
 
+https://github.com/Najuzinh4/SIS-Decision-Support/assets/109618169/2d4f72b6-8fcb-494d-96b8-e77b8958ca8e
+
 
 ### Critérios e regras
  O sistema utiliza a temperatura e pluviometria ideais da cultura escolhida e compara com cada cidade e suas estações. Se um dos critérios (temperatura ou pluviometria) estiverem dentro da faixa de valores, a cidade será escolhida e apontada no mapa.
